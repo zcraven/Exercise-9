@@ -1,3 +1,0 @@
-$ git config --global user.name "zcraven"
-$ git config --global user.email zcraven@umd.edu
-$ git config --global core.editor "code --wait"
